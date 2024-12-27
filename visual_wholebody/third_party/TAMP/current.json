@@ -1,0 +1,5177 @@
+{
+  "object_1": {
+    "id": 0,
+    "object_tag": "closet wall",
+    "object_caption": "Part of the closet wall or shelving structure.",
+    "mass": "30-1000 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.41,
+      0.58,
+      0.52
+    ],
+    "bbox_center": [
+      -0.28,
+      0.81,
+      -2.98
+    ],
+    "bbox_volume": 0.43
+  },
+  "object_2": {
+    "id": 1,
+    "object_tag": "closet wall",
+    "object_caption": "A section of the wall with shelves containing various products.",
+    "mass": "30-1000 kg",
+    "friction": "0.3-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.78,
+      1.24,
+      0.36
+    ],
+    "bbox_center": [
+      -0.59,
+      0.79,
+      -1.87
+    ],
+    "bbox_volume": 0.79
+  },
+  "object_3": {
+    "id": 2,
+    "object_tag": "floor",
+    "object_caption": "A rack with a variety of snack bags displayed.",
+    "mass": "10-20 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      7.08,
+      5.73,
+      1.35
+    ],
+    "bbox_center": [
+      -3.1,
+      0.83,
+      -2.08
+    ],
+    "bbox_volume": 54.77
+  },
+  "object_4": {
+    "id": 5,
+    "object_tag": "paper bag",
+    "object_caption": "Paper bag hanging on the shelving.",
+    "mass": "0.02-0.05 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.22,
+      0.08
+    ],
+    "bbox_center": [
+      -0.34,
+      0.31,
+      -3.01
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_5": {
+    "id": 7,
+    "object_tag": "sign",
+    "object_caption": "A floor mat with promotional information near the entrance.",
+    "mass": "0.1-3 kg",
+    "friction": "0.2-1.0",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.97,
+      0.97,
+      0.07
+    ],
+    "bbox_center": [
+      -1.85,
+      1.46,
+      -1.15
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_6": {
+    "id": 11,
+    "object_tag": "storage bin",
+    "object_caption": "Plastic storage bin containing assorted items.",
+    "mass": "0.5-2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.2,
+      0.09,
+      0.02
+    ],
+    "bbox_center": [
+      -1.22,
+      0.85,
+      -1.02
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_7": {
+    "id": 14,
+    "object_tag": "closet wall",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.67,
+      0.26,
+      0.08
+    ],
+    "bbox_center": [
+      -1.26,
+      0.68,
+      -0.99
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_8": {
+    "id": 29,
+    "object_tag": "paper bag",
+    "object_caption": "A paper bag filled with snacks, possibly chips, often hanging.",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.72,
+      0.44,
+      0.17
+    ],
+    "bbox_center": [
+      -2.26,
+      0.87,
+      -1.38
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_9": {
+    "id": 30,
+    "object_tag": "bicycle",
+    "object_caption": "Part of a bicycle visible behind the items and another paper bag holding filled snacks.",
+    "mass": "0.1-15 kg",
+    "friction": "0.3-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.59,
+      1.15,
+      0.24
+    ],
+    "bbox_center": [
+      -2.17,
+      1.06,
+      -1.95
+    ],
+    "bbox_volume": 0.44
+  },
+  "object_10": {
+    "id": 33,
+    "object_tag": "closet wall",
+    "object_caption": "Part of the closet wall with a light-colored surface.",
+    "mass": "immovable",
+    "friction": "0.6-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      1.41,
+      0.24,
+      0.16
+    ],
+    "bbox_center": [
+      -1.05,
+      0.75,
+      -1.15
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_11": {
+    "id": 34,
+    "object_tag": "paper bag",
+    "object_caption": "Small brown paper bag on the floor.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.16,
+      0.06
+    ],
+    "bbox_center": [
+      -1.3,
+      0.47,
+      -0.89
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_12": {
+    "id": 37,
+    "object_tag": "paper bag",
+    "object_caption": "A paper bag of chips on the top shelf.",
+    "mass": "0.1-1.0 kg",
+    "friction": "0.3-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.44,
+      0.28,
+      0.12
+    ],
+    "bbox_center": [
+      -2.02,
+      0.06,
+      -2.97
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_13": {
+    "id": 39,
+    "object_tag": "paper bag",
+    "object_caption": "A colorful paper bag containing chips on the shelf.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.17,
+      0.14
+    ],
+    "bbox_center": [
+      -1.91,
+      0.39,
+      -3.2
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_14": {
+    "id": 43,
+    "object_tag": "paper bag",
+    "object_caption": "Bag of chips on a shelf.",
+    "mass": "0.3-0.5 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.14,
+      0.03
+    ],
+    "bbox_center": [
+      -2.24,
+      0.07,
+      -2.41
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_15": {
+    "id": 46,
+    "object_tag": "paper bag",
+    "object_caption": "Large orange paper bag of chips on a store shelf.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.38,
+      0.28,
+      0.18
+    ],
+    "bbox_center": [
+      -2.21,
+      0.05,
+      -2.23
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_16": {
+    "id": 50,
+    "object_tag": "storage bin",
+    "object_caption": "A storage bin holding various chip bags.",
+    "mass": "2-5 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.08,
+      0.04,
+      0.01
+    ],
+    "bbox_center": [
+      -4.1,
+      -0.16,
+      -0.99
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_17": {
+    "id": 63,
+    "object_tag": "bottle",
+    "object_caption": "A bottle of Ruffles-flavored dip.",
+    "mass": "0.5-0.7 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.1,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      -2.2,
+      0.51,
+      -1.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_18": {
+    "id": 65,
+    "object_tag": "bag",
+    "object_caption": "Bag of chips on a shelf.",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.37,
+      0.28,
+      0.14
+    ],
+    "bbox_center": [
+      -2.41,
+      0.48,
+      -1.54
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_19": {
+    "id": 72,
+    "object_tag": "refrigerator",
+    "object_caption": "A large silver refrigerator with ice cream branding and visible snacks inside.",
+    "mass": "50-100 kg",
+    "friction": "0.3-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.31,
+      0.79,
+      0.31
+    ],
+    "bbox_center": [
+      -2.44,
+      1.02,
+      1.17
+    ],
+    "bbox_volume": 0.32
+  },
+  "object_20": {
+    "id": 82,
+    "object_tag": "storage bin",
+    "object_caption": "A large white storage bin on a shelf.",
+    "mass": "2-4 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.23,
+      0.18,
+      0.21
+    ],
+    "bbox_center": [
+      -1.28,
+      0.27,
+      -0.85
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_21": {
+    "id": 85,
+    "object_tag": "storage bin",
+    "object_caption": "Plastic storage bin on a shelf.",
+    "mass": "0.3-10 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.25,
+      0.17,
+      0.19
+    ],
+    "bbox_center": [
+      -1.3,
+      0.48,
+      -0.85
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_22": {
+    "id": 91,
+    "object_tag": "shelf",
+    "object_caption": "small beverage fridge",
+    "mass": "15-25 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.77,
+      0.39,
+      0.1
+    ],
+    "bbox_center": [
+      -3.29,
+      0.82,
+      0.98
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_23": {
+    "id": 95,
+    "object_tag": "storage organizer",
+    "object_caption": "A storage organizer with compartments.",
+    "mass": "3-5 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.79,
+      0.36,
+      0.09
+    ],
+    "bbox_center": [
+      -0.91,
+      1.16,
+      -1.22
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_24": {
+    "id": 104,
+    "object_tag": "paper bag",
+    "object_caption": "A colorful paper bag with branding on a retail display.",
+    "mass": "0.05-0.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.27,
+      0.2
+    ],
+    "bbox_center": [
+      -0.71,
+      0.22,
+      -1.21
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_25": {
+    "id": 107,
+    "object_tag": "closet wall",
+    "object_caption": "A section of a closet wall with shelving and a cardboard display box of candy.",
+    "mass": "50-80 kg",
+    "friction": "0.5-1.1",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.15,
+      0.52,
+      0.28
+    ],
+    "bbox_center": [
+      -1.23,
+      0.69,
+      -0.95
+    ],
+    "bbox_volume": 0.17
+  },
+  "object_26": {
+    "id": 108,
+    "object_tag": "box",
+    "object_caption": "A small cardboard box likely filled with candy, featuring colorful packaging on a shelf.",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.24,
+      0.21
+    ],
+    "bbox_center": [
+      -0.56,
+      0.23,
+      -1.59
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_27": {
+    "id": 110,
+    "object_tag": "paper bag",
+    "object_caption": "A brown paper bag, typically used for packaging or storage, possibly containing snacks or candies with colorful packaging.",
+    "mass": "0.05-0.3 kg",
+    "friction": "0.3-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.26,
+      0.25,
+      0.16
+    ],
+    "bbox_center": [
+      -0.5,
+      0.47,
+      -1.81
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_28": {
+    "id": 111,
+    "object_tag": "laundry detergent",
+    "object_caption": "A box or pouch potentially containing sweets or laundry detergent, labeled 'Sweet Sixteen'.",
+    "mass": "0.2-2.0 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.25,
+      0.17,
+      0.15
+    ],
+    "bbox_center": [
+      -0.48,
+      0.22,
+      -1.77
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_29": {
+    "id": 119,
+    "object_tag": "paper bag",
+    "object_caption": "Another paper bag with colorful graphics, possibly containing lightweight items or candy.",
+    "mass": "0.05-0.3 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.21,
+      0.22,
+      0.18
+    ],
+    "bbox_center": [
+      -0.59,
+      0.5,
+      -1.43
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_30": {
+    "id": 125,
+    "object_tag": "box",
+    "object_caption": "Box containing sweets or small toys.",
+    "mass": "0.2-0.4 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.13,
+      0.08
+    ],
+    "bbox_center": [
+      -0.45,
+      0.21,
+      -2.06
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_31": {
+    "id": 137,
+    "object_tag": "closet wall",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.66,
+      0.32,
+      0.17
+    ],
+    "bbox_center": [
+      -0.53,
+      0.39,
+      -1.62
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_32": {
+    "id": 145,
+    "object_tag": "paper bag",
+    "object_caption": "Brown paper bag.",
+    "mass": "0.02-0.05 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.09,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -1.2,
+      0.34,
+      -0.71
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_33": {
+    "id": 150,
+    "object_tag": "storage bin",
+    "object_caption": "plastic storage bin",
+    "mass": "4-8 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.64,
+      0.21,
+      0.04
+    ],
+    "bbox_center": [
+      -1.91,
+      1.02,
+      1.22
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_34": {
+    "id": 153,
+    "object_tag": "storage bin",
+    "object_caption": "Plastic storage bin on shelf",
+    "mass": "4-8 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.24,
+      0.13,
+      0.03
+    ],
+    "bbox_center": [
+      -1.25,
+      0.14,
+      -0.97
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_35": {
+    "id": 165,
+    "object_tag": "storage organizer",
+    "object_caption": "a fixed closet wall",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.98,
+      0.57,
+      0.18
+    ],
+    "bbox_center": [
+      -1.52,
+      0.77,
+      2.02
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_36": {
+    "id": 167,
+    "object_tag": "storage bin",
+    "object_caption": "A bin suitable for storing or organizing goods.",
+    "mass": "4-6 kg",
+    "friction": "0.4-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.06,
+      0.01
+    ],
+    "bbox_center": [
+      -3.88,
+      1.48,
+      0.8
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_37": {
+    "id": 178,
+    "object_tag": "closet wall",
+    "object_caption": "A display refrigerator or closet wall, featuring a vertical structure with glass door or part of a shelving unit.",
+    "mass": "10-150 kg",
+    "friction": "0.3-0.9",
+    "temperature": "room-cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no-yes",
+    "fragile": "no",
+    "touch_allowed": "no-yes",
+    "bbox_extent": [
+      1.53,
+      0.63,
+      0.37
+    ],
+    "bbox_center": [
+      -3.34,
+      0.71,
+      0.91
+    ],
+    "bbox_volume": 0.36
+  },
+  "object_38": {
+    "id": 187,
+    "object_tag": "bucket",
+    "object_caption": "A plastic cleaning bucket, likely used for storage, with a handle, on a shelf.",
+    "mass": "0.5-2.0 kg",
+    "friction": "0.2-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.4,
+      0.29,
+      0.21
+    ],
+    "bbox_center": [
+      -4.83,
+      1.07,
+      -0.08
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_39": {
+    "id": 195,
+    "object_tag": "refrigerator",
+    "object_caption": "Small white refrigerator in the corner.",
+    "mass": "20-30 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.63,
+      0.19,
+      0.06
+    ],
+    "bbox_center": [
+      -4.15,
+      0.51,
+      -0.72
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_40": {
+    "id": 197,
+    "object_tag": "tv stand",
+    "object_caption": "A small TV stand with a screen and other items.",
+    "mass": "10-30 kg",
+    "friction": "0.3-0.9",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.92,
+      0.81,
+      0.86
+    ],
+    "bbox_center": [
+      -3.97,
+      1.13,
+      0.55
+    ],
+    "bbox_volume": 0.64
+  },
+  "object_41": {
+    "id": 198,
+    "object_tag": "mini fridge",
+    "object_caption": "Compact mini fridge under the counter.",
+    "mass": "15-25 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.68,
+      0.28,
+      0.04
+    ],
+    "bbox_center": [
+      -4.07,
+      1.08,
+      -0.81
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_42": {
+    "id": 202,
+    "object_tag": "telephone",
+    "object_caption": "A wall-mounted or desk telephone device.",
+    "mass": "0.2-1.0 kg",
+    "friction": "0.2-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.25,
+      0.19,
+      0.12
+    ],
+    "bbox_center": [
+      -4.03,
+      0.29,
+      0.69
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_43": {
+    "id": 204,
+    "object_tag": "refrigerator",
+    "object_caption": "Refrigerator with a glass door and products inside.",
+    "mass": "40-80 kg",
+    "friction": "0.4-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.7,
+      0.12,
+      0.09
+    ],
+    "bbox_center": [
+      -4.11,
+      0.48,
+      -0.69
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_44": {
+    "id": 206,
+    "object_tag": "bucket",
+    "object_caption": "A yellow plastic bucket with a handle on the shelf.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.26,
+      0.18
+    ],
+    "bbox_center": [
+      -4.85,
+      1.11,
+      0.13
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_45": {
+    "id": 211,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle containing liquid on a shelf.",
+    "mass": "0.3-1 kg",
+    "friction": "0.1-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.12,
+      0.06
+    ],
+    "bbox_center": [
+      -4.69,
+      0.77,
+      -0.3
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_46": {
+    "id": 213,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.21,
+      0.1,
+      0.03
+    ],
+    "bbox_center": [
+      -4.71,
+      0.79,
+      -0.23
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_47": {
+    "id": 220,
+    "object_tag": "storage bin",
+    "object_caption": "Plastic storage bin on the floor containing supplies.",
+    "mass": "1-2 kg",
+    "friction": "0.5-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.37,
+      0.22,
+      0.04
+    ],
+    "bbox_center": [
+      -4.93,
+      1.08,
+      0.32
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_48": {
+    "id": 236,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle with liquid",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.13,
+      0.11
+    ],
+    "bbox_center": [
+      -4.69,
+      0.49,
+      -0.35
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_49": {
+    "id": 244,
+    "object_tag": "book",
+    "object_caption": "A closed book or small instruction manual placed on the desk.",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.3-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no-yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.22,
+      0.04
+    ],
+    "bbox_center": [
+      -3.92,
+      0.49,
+      0.54
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_50": {
+    "id": 253,
+    "object_tag": "desk",
+    "object_caption": "A small standing desk adjacent to the wall with a device placed atop.",
+    "mass": "15-30 kg",
+    "friction": "0.5-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.04,
+      0.61,
+      0.49
+    ],
+    "bbox_center": [
+      -3.88,
+      0.93,
+      0.53
+    ],
+    "bbox_volume": 0.31
+  },
+  "object_51": {
+    "id": 257,
+    "object_tag": "mini fridge",
+    "object_caption": "A compact commercial refrigerator with a glass door beside a shelf, resembling a mini fridge or vending machine.",
+    "mass": "50-150 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      1.52,
+      0.62,
+      0.3
+    ],
+    "bbox_center": [
+      -4.13,
+      0.66,
+      -0.85
+    ],
+    "bbox_volume": 0.28
+  },
+  "object_52": {
+    "id": 261,
+    "object_tag": "closet wall",
+    "object_caption": "A section of a closet wall as part of the store interior, next to the telephone.",
+    "mass": "large structure",
+    "friction": "fixed",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.53,
+      0.28,
+      0.07
+    ],
+    "bbox_center": [
+      -4.28,
+      0.05,
+      0.68
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_53": {
+    "id": 267,
+    "object_tag": "storage bin",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.33,
+      0.26,
+      0.03
+    ],
+    "bbox_center": [
+      -5.05,
+      1.14,
+      0.41
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_54": {
+    "id": 281,
+    "object_tag": "power outlet",
+    "object_caption": "A power outlet on the wall near the desk.",
+    "mass": "fixed component",
+    "friction": "fixed",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "caution",
+    "bbox_extent": [
+      0.09,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -4.55,
+      1.27,
+      1.11
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_55": {
+    "id": 304,
+    "object_tag": "storage bin",
+    "object_caption": "A large black storage bin on the floor or bottom shelf.",
+    "mass": "0.5-3 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.42,
+      0.4,
+      0.14
+    ],
+    "bbox_center": [
+      -5.24,
+      1.15,
+      0.47
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_56": {
+    "id": 310,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle, possibly containing a liquid or cleaning solution, situated on the shelf.",
+    "mass": "0.1-1.0 kg",
+    "friction": "0.2-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.6,
+      1.11,
+      0.6
+    ],
+    "bbox_center": [
+      -4.78,
+      0.67,
+      -0.28
+    ],
+    "bbox_volume": 1.07
+  },
+  "object_57": {
+    "id": 312,
+    "object_tag": "tv",
+    "object_caption": "A flat screen TV displaying content.",
+    "mass": "5-10 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "varies",
+    "bbox_extent": [
+      0.44,
+      0.36,
+      0.22
+    ],
+    "bbox_center": [
+      -4.17,
+      0.24,
+      -0.88
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_58": {
+    "id": 314,
+    "object_tag": "person",
+    "object_caption": "person standing",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "yes",
+    "fragile": "unknown",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.17,
+      0.08,
+      0.01
+    ],
+    "bbox_center": [
+      -4.24,
+      0.28,
+      -0.85
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_59": {
+    "id": 322,
+    "object_tag": "person",
+    "object_caption": "An individual exhibited on a screen or reflection.",
+    "mass": "60-80 kg",
+    "friction": "0.5-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.2,
+      0.15,
+      0.05
+    ],
+    "bbox_center": [
+      -4.25,
+      0.28,
+      -0.84
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_60": {
+    "id": 349,
+    "object_tag": "bottle",
+    "object_caption": "Bottle of liquid product.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.13,
+      0.07
+    ],
+    "bbox_center": [
+      -4.82,
+      0.51,
+      -0.14
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_61": {
+    "id": 375,
+    "object_tag": "refrigerator",
+    "object_caption": "A large refrigerated display unit with various items.",
+    "mass": "50-100 kg",
+    "friction": "0.4-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.98,
+      0.61,
+      0.12
+    ],
+    "bbox_center": [
+      -4.53,
+      1.01,
+      -2.41
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_62": {
+    "id": 382,
+    "object_tag": "tissue box",
+    "object_caption": "Box of tissues on display in the store.",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.05,
+      0.03,
+      0.01
+    ],
+    "bbox_center": [
+      -5.97,
+      0.84,
+      -2.68
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_63": {
+    "id": 383,
+    "object_tag": "closet wall",
+    "object_caption": "Shelving section holding various packaged snacks.",
+    "mass": "30-100 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.28,
+      0.99,
+      0.44
+    ],
+    "bbox_center": [
+      -4.39,
+      0.85,
+      -2.5
+    ],
+    "bbox_volume": 0.56
+  },
+  "object_64": {
+    "id": 385,
+    "object_tag": "mini fridge",
+    "object_caption": "Refrigerator displaying products",
+    "mass": "50-70 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.42,
+      0.17,
+      0.04
+    ],
+    "bbox_center": [
+      -6.08,
+      0.34,
+      -2.95
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_65": {
+    "id": 387,
+    "object_tag": "person",
+    "object_caption": "Large commercial refrigerator with glass doors displaying dairy products.",
+    "mass": "100-200 kg",
+    "friction": "0.2-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.24,
+      0.61,
+      0.26
+    ],
+    "bbox_center": [
+      -5.94,
+      0.9,
+      -2.83
+    ],
+    "bbox_volume": 0.2
+  },
+  "object_66": {
+    "id": 392,
+    "object_tag": "refrigerator",
+    "object_caption": "Cooling unit on the right side with beverages",
+    "mass": "100-200 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.06,
+      0.6,
+      0.18
+    ],
+    "bbox_center": [
+      -5.8,
+      1.03,
+      -3.03
+    ],
+    "bbox_volume": 0.11
+  },
+  "object_67": {
+    "id": 394,
+    "object_tag": "refrigerator",
+    "object_caption": "Refrigerator used for storing perishable items.",
+    "mass": "50-300 kg",
+    "friction": "0.3-0.7",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "unknown",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.0,
+      0.6,
+      0.4
+    ],
+    "bbox_center": [
+      -5.79,
+      1.03,
+      -3.26
+    ],
+    "bbox_volume": 0.24
+  },
+  "object_68": {
+    "id": 396,
+    "object_tag": "paper bag",
+    "object_caption": "Bags of snacks displayed on a rack.",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.3-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.24,
+      0.22,
+      0.07
+    ],
+    "bbox_center": [
+      -3.97,
+      0.37,
+      -2.47
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_69": {
+    "id": 397,
+    "object_tag": "refrigerator",
+    "object_caption": "Large glass door refrigerator containing assorted beverages.",
+    "mass": "70-90 kg",
+    "friction": "0.5-0.7",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.63,
+      0.6,
+      0.13
+    ],
+    "bbox_center": [
+      -2.13,
+      0.39,
+      -5.11
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_70": {
+    "id": 398,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle with beverage.",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      -2.05,
+      0.6,
+      -5.08
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_71": {
+    "id": 399,
+    "object_tag": "bottle",
+    "object_caption": "A glass bottle with liquid.",
+    "mass": "0.7-1.2 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.09,
+      0.02
+    ],
+    "bbox_center": [
+      -1.98,
+      0.62,
+      -5.05
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_72": {
+    "id": 400,
+    "object_tag": "storage organizer",
+    "object_caption": "Shelving unit containing bags of snacks.",
+    "mass": "20-30 kg",
+    "friction": "0.5-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.95,
+      0.27,
+      0.2
+    ],
+    "bbox_center": [
+      -4.02,
+      0.77,
+      -2.47
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_73": {
+    "id": 401,
+    "object_tag": "closet wall",
+    "object_caption": "Section of a shelving unit holding various products.",
+    "mass": "50-100 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.61,
+      1.65,
+      0.4
+    ],
+    "bbox_center": [
+      -3.77,
+      0.85,
+      -3.97
+    ],
+    "bbox_volume": 1.06
+  },
+  "object_74": {
+    "id": 403,
+    "object_tag": "refrigerator",
+    "object_caption": "Large commercial refrigerator with a glass door.",
+    "mass": "150-200 kg",
+    "friction": "0.6-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.68,
+      0.51,
+      0.15
+    ],
+    "bbox_center": [
+      -2.09,
+      0.36,
+      -5.11
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_75": {
+    "id": 405,
+    "object_tag": "paper bag",
+    "object_caption": "Small paper bag on the shelf containing Smartfood popcorn.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.14,
+      0.13,
+      0.06
+    ],
+    "bbox_center": [
+      -2.88,
+      0.1,
+      -2.01
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_76": {
+    "id": 406,
+    "object_tag": "closet wall",
+    "object_caption": "Metal shelf structure housing snack products, part of a closet wall.",
+    "mass": "30-100 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      1.43,
+      0.39,
+      0.14
+    ],
+    "bbox_center": [
+      -3.01,
+      0.74,
+      -1.47
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_77": {
+    "id": 407,
+    "object_tag": "paper bag",
+    "object_caption": "Bag of cheese snack chips on shelf.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.16,
+      0.09,
+      0.07
+    ],
+    "bbox_center": [
+      -2.97,
+      0.08,
+      -1.64
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_78": {
+    "id": 412,
+    "object_tag": "paper bag",
+    "object_caption": "bag of Smartfood popcorn",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.16,
+      0.06
+    ],
+    "bbox_center": [
+      -2.83,
+      0.08,
+      -2.15
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_79": {
+    "id": 413,
+    "object_tag": "closet wall",
+    "object_caption": "Interior wall of the shelving unit.",
+    "mass": "150-200 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.61,
+      0.51,
+      0.29
+    ],
+    "bbox_center": [
+      -2.69,
+      1.21,
+      -2.51
+    ],
+    "bbox_volume": 0.09
+  },
+  "object_80": {
+    "id": 415,
+    "object_tag": "paper bag",
+    "object_caption": "An orange paper bag filled with snack items on the shelf.",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.49,
+      0.23,
+      0.11
+    ],
+    "bbox_center": [
+      -2.86,
+      1.03,
+      -2.14
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_81": {
+    "id": 417,
+    "object_tag": "paper bag",
+    "object_caption": "Orange paper bag of snacks on the shelf.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.4-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.2,
+      0.2,
+      0.07
+    ],
+    "bbox_center": [
+      -2.46,
+      0.36,
+      -2.68
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_82": {
+    "id": 418,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle of snack seasoning on the shelf.",
+    "mass": "0.3-0.5 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.3,
+      0.1,
+      0.07
+    ],
+    "bbox_center": [
+      -2.81,
+      0.86,
+      -2.28
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_83": {
+    "id": 419,
+    "object_tag": "bottle",
+    "object_caption": "A bottle on the shelf.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.1-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.06,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -1.81,
+      0.38,
+      -5.03
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_84": {
+    "id": 420,
+    "object_tag": "refrigerator",
+    "object_caption": "A refrigerator holding beverages",
+    "mass": "50-150 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.25,
+      0.16,
+      0.07
+    ],
+    "bbox_center": [
+      -1.88,
+      1.34,
+      -5.06
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_85": {
+    "id": 421,
+    "object_tag": "refrigerator",
+    "object_caption": "A large refrigerator used for storing drinks.",
+    "mass": "50-80 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.66,
+      0.68,
+      0.28
+    ],
+    "bbox_center": [
+      -1.95,
+      1.13,
+      -5.07
+    ],
+    "bbox_volume": 0.13
+  },
+  "object_86": {
+    "id": 422,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle stored inside the refrigerator.",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.3",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.12,
+      0.11
+    ],
+    "bbox_center": [
+      -1.98,
+      0.78,
+      -5.34
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_87": {
+    "id": 423,
+    "object_tag": "bottle",
+    "object_caption": "A glass bottle stored inside the refrigerator.",
+    "mass": "0.6-1.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.14,
+      0.13
+    ],
+    "bbox_center": [
+      -1.88,
+      0.78,
+      -5.29
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_88": {
+    "id": 424,
+    "object_tag": "bottle",
+    "object_caption": "A bottle with a cap, stored in the fridge.",
+    "mass": "0.5-1",
+    "friction": "0.3-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -1.93,
+      0.3,
+      -5.25
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_89": {
+    "id": 425,
+    "object_tag": "bottle",
+    "object_caption": "A small plastic or glass bottle stored on the refrigerator shelf.",
+    "mass": "0.2-0.7 kg",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.28,
+      0.17,
+      0.06
+    ],
+    "bbox_center": [
+      -1.67,
+      0.33,
+      -5.28
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_90": {
+    "id": 426,
+    "object_tag": "bottle",
+    "object_caption": "Plastic or glass bottle containing liquid.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.1-0.5",
+    "temperature": "varied",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.19,
+      0.11,
+      0.09
+    ],
+    "bbox_center": [
+      -2.05,
+      0.74,
+      -5.14
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_91": {
+    "id": 427,
+    "object_tag": "bottle",
+    "object_caption": "Plastic or glass bottle containing liquid.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.1-0.5",
+    "temperature": "cold-room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.1,
+      0.05
+    ],
+    "bbox_center": [
+      -1.98,
+      0.75,
+      -5.09
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_92": {
+    "id": 429,
+    "object_tag": "mini fridge",
+    "object_caption": "glass-door refrigerator",
+    "mass": "15-100 kg",
+    "friction": "0.1-0.2",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.51,
+      0.31,
+      0.06
+    ],
+    "bbox_center": [
+      -2.5,
+      0.31,
+      -5.86
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_93": {
+    "id": 430,
+    "object_tag": "refrigerator",
+    "object_caption": "Large glass-door commercial refrigerator filled with beverages.",
+    "mass": "50-150 kg",
+    "friction": "0.1-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      1.49,
+      0.86,
+      0.54
+    ],
+    "bbox_center": [
+      -2.0,
+      0.68,
+      -5.14
+    ],
+    "bbox_volume": 0.69
+  },
+  "object_94": {
+    "id": 431,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle containing liquid.",
+    "mass": "0.1-0.5 kg",
+    "friction": "0.1-0.5",
+    "temperature": "unknown",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.13,
+      0.04
+    ],
+    "bbox_center": [
+      -1.97,
+      0.35,
+      -5.1
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_95": {
+    "id": 434,
+    "object_tag": "refrigerator",
+    "object_caption": "Tall, white refrigerator",
+    "mass": "50-80 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.69,
+      0.55,
+      0.15
+    ],
+    "bbox_center": [
+      -1.89,
+      0.7,
+      -5.06
+    ],
+    "bbox_volume": 0.06
+  },
+  "object_96": {
+    "id": 436,
+    "object_tag": "refrigerator",
+    "object_caption": "Glass-doored refrigerator",
+    "mass": "60-90 kg",
+    "friction": "0.4-0.7",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.69,
+      0.51,
+      0.21
+    ],
+    "bbox_center": [
+      -2.56,
+      0.47,
+      -5.82
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_97": {
+    "id": 438,
+    "object_tag": "closet wall",
+    "object_caption": "Interior side wall of a closet or cabinet",
+    "mass": "20-30 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.41,
+      0.89,
+      0.12
+    ],
+    "bbox_center": [
+      -3.59,
+      1.02,
+      -4.25
+    ],
+    "bbox_volume": 0.15
+  },
+  "object_98": {
+    "id": 441,
+    "object_tag": "mini fridge",
+    "object_caption": "Compact refrigerator",
+    "mass": "20-30 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.69,
+      0.61,
+      0.05
+    ],
+    "bbox_center": [
+      -3.15,
+      0.57,
+      -6.04
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_99": {
+    "id": 444,
+    "object_tag": "refrigerator",
+    "object_caption": "Glass door refrigerator containing beverages.",
+    "mass": "40-100 kg",
+    "friction": "0.1-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no-yes",
+    "touch_allowed": "no-yes",
+    "bbox_extent": [
+      1.46,
+      0.69,
+      0.34
+    ],
+    "bbox_center": [
+      -3.17,
+      0.68,
+      -6.03
+    ],
+    "bbox_volume": 0.34
+  },
+  "object_100": {
+    "id": 445,
+    "object_tag": "mini fridge",
+    "object_caption": "Compact refrigerator for beverages",
+    "mass": "20-40 kg",
+    "friction": "0.5-0.7",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      1.11,
+      0.64,
+      0.27
+    ],
+    "bbox_center": [
+      -2.58,
+      0.57,
+      -5.76
+    ],
+    "bbox_volume": 0.19
+  },
+  "object_101": {
+    "id": 449,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle of beverage on a shelf.",
+    "mass": "0.5-1 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.23,
+      0.12,
+      0.03
+    ],
+    "bbox_center": [
+      -2.67,
+      1.13,
+      -5.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_102": {
+    "id": 450,
+    "object_tag": "refrigerator",
+    "object_caption": "Additional refrigerator next to the first one.",
+    "mass": "200-400 kg",
+    "friction": "0.6-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.07,
+      0.53,
+      0.25
+    ],
+    "bbox_center": [
+      -2.62,
+      0.85,
+      -5.92
+    ],
+    "bbox_volume": 0.14
+  },
+  "object_103": {
+    "id": 454,
+    "object_tag": "bucket",
+    "object_caption": "Container with a handle, typically used for carrying liquids or small items.",
+    "mass": "0.3-0.7 kg",
+    "friction": "0.4-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.08,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -4.28,
+      -0.01,
+      -3.0
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_104": {
+    "id": 455,
+    "object_tag": "paper bag",
+    "object_caption": "A brown paper bag, often used for containing snacks or groceries, found on a lower shelf.",
+    "mass": "0.05-0.3 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.31,
+      0.21,
+      0.16
+    ],
+    "bbox_center": [
+      -4.27,
+      1.18,
+      -2.84
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_105": {
+    "id": 456,
+    "object_tag": "laundry detergent",
+    "object_caption": "Box or container of laundry detergent, used for washing clothes.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.3-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.09,
+      0.04
+    ],
+    "bbox_center": [
+      -3.91,
+      0.08,
+      -3.39
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_106": {
+    "id": 463,
+    "object_tag": "refrigerator",
+    "object_caption": "A large appliance likely stocked with cold items.",
+    "mass": "50-100 kg",
+    "friction": "0.6-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.46,
+      0.29,
+      0.03
+    ],
+    "bbox_center": [
+      -5.28,
+      -0.07,
+      -6.38
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_107": {
+    "id": 464,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle containing a dark liquid, possibly soda, on display.",
+    "mass": "0.5-1.2 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.3,
+      0.16,
+      0.09
+    ],
+    "bbox_center": [
+      -3.58,
+      0.6,
+      -4.75
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_108": {
+    "id": 465,
+    "object_tag": "bottle",
+    "object_caption": "Plastic beverage bottle",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.26,
+      0.09,
+      0.02
+    ],
+    "bbox_center": [
+      -3.55,
+      0.59,
+      -4.83
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_109": {
+    "id": 468,
+    "object_tag": "refrigerator",
+    "object_caption": "Large commercial refrigerator with glass doors displaying various beverages.",
+    "mass": "50-150 kg",
+    "friction": "0.3-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.45,
+      0.83,
+      0.42
+    ],
+    "bbox_center": [
+      -3.71,
+      0.63,
+      -6.09
+    ],
+    "bbox_volume": 0.51
+  },
+  "object_110": {
+    "id": 469,
+    "object_tag": "bottle",
+    "object_caption": "A large plastic bottle filled with dark liquid, likely soda, on a shelf.",
+    "mass": "0.5-2 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room or cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.18,
+      0.1,
+      0.11
+    ],
+    "bbox_center": [
+      -3.54,
+      0.24,
+      -4.83
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_111": {
+    "id": 471,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle filled with liquid.",
+    "mass": "0.5-1.0 kg",
+    "friction": "0.3-0.6",
+    "temperature": "room/cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.25,
+      0.17,
+      0.05
+    ],
+    "bbox_center": [
+      -3.59,
+      0.59,
+      -4.64
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_112": {
+    "id": 473,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle filled with liquid.",
+    "mass": "0.5-1.0 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.19,
+      0.1,
+      0.07
+    ],
+    "bbox_center": [
+      -3.58,
+      0.28,
+      -4.64
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_113": {
+    "id": 474,
+    "object_tag": "tissue box",
+    "object_caption": "A rectangular tissue box likely containing items.",
+    "mass": "0.2-0.4 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.2,
+      0.1
+    ],
+    "bbox_center": [
+      -3.3,
+      1.16,
+      -6.05
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_114": {
+    "id": 475,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle filled with liquid.",
+    "mass": "0.5-1.0 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.19,
+      0.14,
+      0.02
+    ],
+    "bbox_center": [
+      -3.56,
+      0.29,
+      -4.73
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_115": {
+    "id": 481,
+    "object_tag": "refrigerator",
+    "object_caption": "Commercial refrigerator unit",
+    "mass": "very large, fixed",
+    "friction": "0.5-0.8",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.04,
+      0.38,
+      0.11
+    ],
+    "bbox_center": [
+      -3.53,
+      0.84,
+      -4.73
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_116": {
+    "id": 487,
+    "object_tag": "bottle",
+    "object_caption": "Aluminum drink can",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.2-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.11,
+      0.08,
+      0.05
+    ],
+    "bbox_center": [
+      -2.7,
+      1.22,
+      -5.89
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_117": {
+    "id": 488,
+    "object_tag": "refrigerator",
+    "object_caption": "Large glass door refrigerator and a plastic bottle on the shelf.",
+    "mass": "0.5-100 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold-room",
+    "allowed_to_change_location": "no-yes",
+    "contain_possible_articulation": "yes-no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.18,
+      0.37,
+      0.18
+    ],
+    "bbox_center": [
+      -4.45,
+      0.65,
+      -6.38
+    ],
+    "bbox_volume": 0.08
+  },
+  "object_118": {
+    "id": 489,
+    "object_tag": "cup",
+    "object_caption": "Plastic cup",
+    "mass": "0.02-0.1 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.08,
+      0.02
+    ],
+    "bbox_center": [
+      -3.66,
+      0.87,
+      -6.2
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_119": {
+    "id": 490,
+    "object_tag": "bottle",
+    "object_caption": "can of energy drink or water bottle with a blue cap",
+    "mass": "0.3-0.7 kg",
+    "friction": "0.2-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.21,
+      0.09,
+      0.06
+    ],
+    "bbox_center": [
+      -2.71,
+      1.15,
+      -5.85
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_120": {
+    "id": 492,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle with a color label and a green cap.",
+    "mass": "0.4-1 kg",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.2,
+      0.12,
+      0.09
+    ],
+    "bbox_center": [
+      -2.69,
+      0.79,
+      -5.87
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_121": {
+    "id": 493,
+    "object_tag": "floor",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      2.17,
+      0.92,
+      0.13
+    ],
+    "bbox_center": [
+      -3.68,
+      1.4,
+      -5.53
+    ],
+    "bbox_volume": 0.26
+  },
+  "object_122": {
+    "id": 494,
+    "object_tag": "refrigerator",
+    "object_caption": "Glass-door refrigerator with shelves containing a plastic bottle.",
+    "mass": "50-150 kg",
+    "friction": "0.2-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.44,
+      0.65,
+      0.14
+    ],
+    "bbox_center": [
+      -4.23,
+      0.64,
+      -6.14
+    ],
+    "bbox_volume": 0.13
+  },
+  "object_123": {
+    "id": 495,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle containing a beverage with a colorful label.",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.23,
+      0.19,
+      0.08
+    ],
+    "bbox_center": [
+      -2.52,
+      0.79,
+      -5.87
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_124": {
+    "id": 496,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle containing an orange beverage.",
+    "mass": "0.4-1 kg",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.11,
+      0.09
+    ],
+    "bbox_center": [
+      -2.61,
+      0.79,
+      -5.87
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_125": {
+    "id": 498,
+    "object_tag": "closet wall",
+    "object_caption": "Part of a closet or storage space structure",
+    "mass": "20-50 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.52,
+      0.39,
+      0.26
+    ],
+    "bbox_center": [
+      -2.56,
+      1.25,
+      -5.9
+    ],
+    "bbox_volume": 0.05
+  },
+  "object_126": {
+    "id": 499,
+    "object_tag": "bottle",
+    "object_caption": "A plastic juice bottle with a colorful label, containing a beverage.",
+    "mass": "0.5-1",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.13,
+      0.06
+    ],
+    "bbox_center": [
+      -2.78,
+      0.77,
+      -5.86
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_127": {
+    "id": 503,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle.",
+    "mass": "0.4-1 kg",
+    "friction": "0.2-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.16,
+      0.08,
+      0.06
+    ],
+    "bbox_center": [
+      -2.62,
+      0.46,
+      -5.83
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_128": {
+    "id": 506,
+    "object_tag": "bottle",
+    "object_caption": "Water bottle with a blue cap.",
+    "mass": "0.5-0.7 kg",
+    "friction": "0.3-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.21,
+      0.08,
+      0.07
+    ],
+    "bbox_center": [
+      -2.69,
+      0.44,
+      -5.88
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_129": {
+    "id": 508,
+    "object_tag": "bottle",
+    "object_caption": "Soda bottle with a red label.",
+    "mass": "0.5-0.7 kg",
+    "friction": "0.2-0.3",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.07,
+      0.04
+    ],
+    "bbox_center": [
+      -2.72,
+      0.08,
+      -5.75
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_130": {
+    "id": 510,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.07,
+      0.04,
+      0.01
+    ],
+    "bbox_center": [
+      -2.77,
+      0.09,
+      -5.82
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_131": {
+    "id": 511,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.04,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -2.64,
+      0.11,
+      -5.8
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_132": {
+    "id": 513,
+    "object_tag": "bottle",
+    "object_caption": "Plastic soda bottle.",
+    "mass": "0.4-0.6 kg",
+    "friction": "0.2-0.3",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.09,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      -2.77,
+      0.5,
+      -5.88
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_133": {
+    "id": 518,
+    "object_tag": "bottle",
+    "object_caption": "Juice bottle with a colorful label.",
+    "mass": "0.6-0.8 kg",
+    "friction": "0.4-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.26,
+      0.07,
+      0.06
+    ],
+    "bbox_center": [
+      -2.36,
+      1.33,
+      -5.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_134": {
+    "id": 519,
+    "object_tag": "bottle",
+    "object_caption": "Water bottle with a blue cap.",
+    "mass": "0.5-0.7 kg",
+    "friction": "0.3-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.06,
+      0.03,
+      0.01
+    ],
+    "bbox_center": [
+      -2.47,
+      1.44,
+      -5.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_135": {
+    "id": 524,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle with transparent liquid.",
+    "mass": "0.5-0.8 kg",
+    "friction": "0.3-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.12,
+      0.05,
+      0.01
+    ],
+    "bbox_center": [
+      -2.71,
+      0.47,
+      -5.99
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_136": {
+    "id": 527,
+    "object_tag": "bottle",
+    "object_caption": "A cylindrical beverage bottle.",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.2-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.18,
+      0.13,
+      0.05
+    ],
+    "bbox_center": [
+      -2.88,
+      0.92,
+      -5.97
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_137": {
+    "id": 529,
+    "object_tag": "refrigerator",
+    "object_caption": "A glass door commercial refrigerator with shelves of beverages inside.",
+    "mass": "50-150 kg",
+    "friction": "0.5-0.7",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "unknown",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.72,
+      0.4,
+      0.14
+    ],
+    "bbox_center": [
+      -4.02,
+      1.36,
+      -6.21
+    ],
+    "bbox_volume": 0.04
+  },
+  "object_138": {
+    "id": 530,
+    "object_tag": "floor",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      5.14,
+      2.57,
+      0.14
+    ],
+    "bbox_center": [
+      -5.27,
+      1.44,
+      -3.91
+    ],
+    "bbox_volume": 1.85
+  },
+  "object_139": {
+    "id": 536,
+    "object_tag": "refrigerator",
+    "object_caption": "A refrigerated display case containing assorted beverages.",
+    "mass": "50-100 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.12,
+      0.4,
+      0.15
+    ],
+    "bbox_center": [
+      -4.59,
+      0.66,
+      -6.28
+    ],
+    "bbox_volume": 0.07
+  },
+  "object_140": {
+    "id": 538,
+    "object_tag": "sign",
+    "object_caption": "An emergency exit sign on the door or wall.",
+    "mass": "0.1-1.0 kg",
+    "friction": "0.1-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.57,
+      0.23,
+      0.03
+    ],
+    "bbox_center": [
+      -6.35,
+      -0.06,
+      -5.81
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_141": {
+    "id": 544,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle on the top shelf containing liquid.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.29,
+      0.13
+    ],
+    "bbox_center": [
+      -5.45,
+      0.62,
+      -5.17
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_142": {
+    "id": 549,
+    "object_tag": "bottle",
+    "object_caption": "Plastic beverage bottle on the shelf containing liquid.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.28,
+      0.16,
+      0.12
+    ],
+    "bbox_center": [
+      -5.44,
+      0.94,
+      -5.06
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_143": {
+    "id": 550,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle containing liquid on the top shelf.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.16,
+      0.15,
+      0.04
+    ],
+    "bbox_center": [
+      -6.12,
+      0.26,
+      -5.42
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_144": {
+    "id": 552,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle containing liquid on a shelf or display stand.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.34,
+      1.11,
+      0.35
+    ],
+    "bbox_center": [
+      -5.84,
+      0.83,
+      -5.3
+    ],
+    "bbox_volume": 0.52
+  },
+  "object_145": {
+    "id": 553,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle containing liquid.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.3-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.38,
+      0.16,
+      0.05
+    ],
+    "bbox_center": [
+      -5.91,
+      0.26,
+      -5.21
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_146": {
+    "id": 556,
+    "object_tag": "bottle",
+    "object_caption": "Plastic beverage bottle",
+    "mass": "0.9-1.5 kg",
+    "friction": "0.1-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.26,
+      0.06,
+      0.01
+    ],
+    "bbox_center": [
+      -6.34,
+      0.27,
+      -5.4
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_147": {
+    "id": 558,
+    "object_tag": "coat rack",
+    "object_caption": "A coat rack comprising a dark horizontal pipe, mounted on the wall or attached to the door.",
+    "mass": "1-5 kg",
+    "friction": "0.2-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no-yes",
+    "fragile": "no",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.74,
+      0.22,
+      0.1
+    ],
+    "bbox_center": [
+      -6.29,
+      0.42,
+      -5.86
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_148": {
+    "id": 559,
+    "object_tag": "bottle",
+    "object_caption": "A plastic beverage bottle next to the others on the top shelf.",
+    "mass": "0.8-1.5 kg",
+    "friction": "0.1-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.19,
+      0.04
+    ],
+    "bbox_center": [
+      -6.37,
+      0.3,
+      -5.45
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_149": {
+    "id": 564,
+    "object_tag": "bottle",
+    "object_caption": "Plastic beverage bottle on the shelf",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.19,
+      0.17,
+      0.03
+    ],
+    "bbox_center": [
+      -5.59,
+      0.23,
+      -5.03
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_150": {
+    "id": 576,
+    "object_tag": "refrigerator",
+    "object_caption": "A large commercial refrigerator with a glass door for storing food and drinks at cool temperatures.",
+    "mass": "50-120 kg",
+    "friction": "0.2-0.9",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.95,
+      1.16,
+      0.17
+    ],
+    "bbox_center": [
+      -5.57,
+      1.01,
+      -4.56
+    ],
+    "bbox_volume": 0.38
+  },
+  "object_151": {
+    "id": 580,
+    "object_tag": "bottle",
+    "object_caption": "Plastic soda bottle on the shelf.",
+    "mass": "0.5-1.0 kg",
+    "friction": "0.2-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.32,
+      0.32,
+      0.06
+    ],
+    "bbox_center": [
+      -6.09,
+      0.32,
+      -5.42
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_152": {
+    "id": 591,
+    "object_tag": "bottle",
+    "object_caption": "Plastic soda bottle on shelf",
+    "mass": "0.5-1 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.2,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -5.6,
+      0.27,
+      -5.02
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_153": {
+    "id": 600,
+    "object_tag": "refrigerator",
+    "object_caption": "A standing refrigerator with glass doors for storing food and drinks at cool temperatures.",
+    "mass": "50-120 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.93,
+      0.48,
+      0.14
+    ],
+    "bbox_center": [
+      -5.81,
+      1.3,
+      -3.32
+    ],
+    "bbox_volume": 0.06
+  },
+  "object_154": {
+    "id": 605,
+    "object_tag": "closet wall",
+    "object_caption": "A vertical surface forming part of an enclosed space.",
+    "mass": "200-500 kg",
+    "friction": "0.9-1.0",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.7,
+      0.24,
+      0.04
+    ],
+    "bbox_center": [
+      -4.68,
+      0.41,
+      -2.93
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_155": {
+    "id": 609,
+    "object_tag": "microwave",
+    "object_caption": "Appliance for heating food using microwave radiation",
+    "mass": "10-15 kg",
+    "friction": "0.4-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.12,
+      0.08,
+      0.01
+    ],
+    "bbox_center": [
+      -4.69,
+      0.09,
+      -2.89
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_156": {
+    "id": 610,
+    "object_tag": "refrigerator",
+    "object_caption": "Large appliance for storing food and drinks at cool temperatures.",
+    "mass": "50-100 kg",
+    "friction": "0.5-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.13,
+      0.07
+    ],
+    "bbox_center": [
+      -5.85,
+      1.0,
+      -3.63
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_157": {
+    "id": 611,
+    "object_tag": "closet wall",
+    "object_caption": "Section of a closet wall",
+    "mass": "unknown",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.42,
+      1.25,
+      0.13
+    ],
+    "bbox_center": [
+      -4.39,
+      0.91,
+      -3.92
+    ],
+    "bbox_volume": 0.23
+  },
+  "object_158": {
+    "id": 614,
+    "object_tag": "shelf",
+    "object_caption": "Metal store shelf holding various products.",
+    "mass": "25-35 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.75,
+      0.21,
+      0.17
+    ],
+    "bbox_center": [
+      -4.28,
+      0.63,
+      -4.19
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_159": {
+    "id": 615,
+    "object_tag": "bucket",
+    "object_caption": "Large plastic bucket with contents.",
+    "mass": "2-5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.13,
+      0.05
+    ],
+    "bbox_center": [
+      -4.22,
+      0.87,
+      -4.45
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_160": {
+    "id": 616,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle containing liquid.",
+    "mass": "0.5-1.0 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.16,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      -4.25,
+      0.12,
+      -3.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_161": {
+    "id": 618,
+    "object_tag": "bottle",
+    "object_caption": "Plastic bottle of soda, possibly green.",
+    "mass": "0.5-2 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.16,
+      0.1
+    ],
+    "bbox_center": [
+      -4.11,
+      0.88,
+      -4.77
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_162": {
+    "id": 619,
+    "object_tag": "bottle",
+    "object_caption": "A large plastic soda bottle, likely a two-liter bottle, standing on the lower shelf.",
+    "mass": "1.0-2.0 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.41,
+      0.29,
+      0.14
+    ],
+    "bbox_center": [
+      -4.1,
+      1.04,
+      -4.82
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_163": {
+    "id": 621,
+    "object_tag": "bottle",
+    "object_caption": "A large plastic soda bottle on the shelf with a recognizable brand label.",
+    "mass": "1.0-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.29,
+      0.12
+    ],
+    "bbox_center": [
+      -4.08,
+      0.97,
+      -4.95
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_164": {
+    "id": 622,
+    "object_tag": "bottle",
+    "object_caption": "Large plastic soda bottle on the lower shelf.",
+    "mass": "1.0-1.5 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.38,
+      0.29,
+      0.12
+    ],
+    "bbox_center": [
+      -4.15,
+      0.98,
+      -4.68
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_165": {
+    "id": 624,
+    "object_tag": "bottle",
+    "object_caption": "A large green plastic bottle of soda on a shelf.",
+    "mass": "1.0-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.2,
+      0.1
+    ],
+    "bbox_center": [
+      -4.03,
+      0.99,
+      -4.66
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_166": {
+    "id": 625,
+    "object_tag": "bottle",
+    "object_caption": "Large plastic ketchup bottle on the shelf.",
+    "mass": "0.5-2.0 kg",
+    "friction": "0.1-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.42,
+      0.16,
+      0.1
+    ],
+    "bbox_center": [
+      -4.3,
+      0.07,
+      -4.06
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_167": {
+    "id": 626,
+    "object_tag": "cup",
+    "object_caption": "Instant noodle cup",
+    "mass": "0.05-0.3 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.12,
+      0.1,
+      0.06
+    ],
+    "bbox_center": [
+      -4.12,
+      0.11,
+      -4.53
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_168": {
+    "id": 628,
+    "object_tag": "bottle",
+    "object_caption": "pepper sauce bottle",
+    "mass": "0.7-1.0 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.16,
+      0.09
+    ],
+    "bbox_center": [
+      -3.89,
+      0.23,
+      -4.79
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_169": {
+    "id": 630,
+    "object_tag": "bottle",
+    "object_caption": "A large plastic soda bottle on the shelf.",
+    "mass": "1.0-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.32,
+      0.25,
+      0.11
+    ],
+    "bbox_center": [
+      -3.89,
+      0.25,
+      -4.67
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_170": {
+    "id": 632,
+    "object_tag": "bottle",
+    "object_caption": "large plastic beverage bottle",
+    "mass": "1.0-2 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.16,
+      0.13
+    ],
+    "bbox_center": [
+      -4.09,
+      0.96,
+      -5.1
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_171": {
+    "id": 634,
+    "object_tag": "bottle",
+    "object_caption": "medium plastic bottle, possibly containing tomato sauce or cola",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.3,
+      0.2,
+      0.1
+    ],
+    "bbox_center": [
+      -4.07,
+      0.92,
+      -4.57
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_172": {
+    "id": 641,
+    "object_tag": "bottle",
+    "object_caption": "A medium to large plastic soda bottle on the shelf.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.29,
+      0.24,
+      0.11
+    ],
+    "bbox_center": [
+      -3.8,
+      0.62,
+      -4.69
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_173": {
+    "id": 660,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.28,
+      0.16,
+      0.13
+    ],
+    "bbox_center": [
+      -3.71,
+      0.64,
+      -4.85
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_174": {
+    "id": 661,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.15,
+      0.11,
+      0.07
+    ],
+    "bbox_center": [
+      -3.88,
+      0.26,
+      -4.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_175": {
+    "id": 671,
+    "object_tag": "bottle",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.23,
+      0.07,
+      0.02
+    ],
+    "bbox_center": [
+      -3.76,
+      0.23,
+      -4.92
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_176": {
+    "id": 674,
+    "object_tag": "shelf",
+    "object_caption": "Metal store shelf holding various products.",
+    "mass": "10-30 kg",
+    "friction": "0.5-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.66,
+      0.46,
+      0.41
+    ],
+    "bbox_center": [
+      -3.89,
+      0.58,
+      -4.77
+    ],
+    "bbox_volume": 0.12
+  },
+  "object_177": {
+    "id": 691,
+    "object_tag": "bottle",
+    "object_caption": "Large soda bottle",
+    "mass": "1.0-1.5 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.26,
+      0.15,
+      0.11
+    ],
+    "bbox_center": [
+      -3.72,
+      0.67,
+      -4.83
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_178": {
+    "id": 703,
+    "object_tag": "bottle",
+    "object_caption": "soft drink plastic bottle",
+    "mass": "0.6-1.2 kg",
+    "friction": "0.1-0.2",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.28,
+      0.03
+    ],
+    "bbox_center": [
+      -4.62,
+      1.08,
+      -3.05
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_179": {
+    "id": 705,
+    "object_tag": "bottle",
+    "object_caption": "Large plastic soda bottle with a red label.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.34,
+      0.31,
+      0.19
+    ],
+    "bbox_center": [
+      -4.61,
+      0.66,
+      -2.94
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_180": {
+    "id": 707,
+    "object_tag": "bottle",
+    "object_caption": "A plastic soda bottle with a label, possibly containing a beverage or water, on the shelf.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.42,
+      0.44,
+      0.16
+    ],
+    "bbox_center": [
+      -4.58,
+      0.63,
+      -3.12
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_181": {
+    "id": 711,
+    "object_tag": "bottle",
+    "object_caption": "A plastic soda bottle containing a soft drink.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.24,
+      0.2,
+      0.11
+    ],
+    "bbox_center": [
+      -4.37,
+      0.38,
+      -3.2
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_182": {
+    "id": 718,
+    "object_tag": "bottle",
+    "object_caption": "A medium-sized plastic soda bottle with a blue label, typically containing a carbonated soft drink.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.1-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.28,
+      0.16,
+      0.08
+    ],
+    "bbox_center": [
+      -4.43,
+      0.35,
+      -3.22
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_183": {
+    "id": 720,
+    "object_tag": "bottle",
+    "object_caption": "A medium-sized plastic bottle of drink with a label, possibly containing mineral water or a soft drink.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.24,
+      0.12,
+      0.11
+    ],
+    "bbox_center": [
+      -4.48,
+      0.35,
+      -3.24
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_184": {
+    "id": 721,
+    "object_tag": "box",
+    "object_caption": "Box on shelf.",
+    "mass": "0.2-2.0 kg",
+    "friction": "0.3-0.8",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.2,
+      0.14,
+      0.1
+    ],
+    "bbox_center": [
+      -4.33,
+      0.1,
+      -3.93
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_185": {
+    "id": 722,
+    "object_tag": "bottle",
+    "object_caption": "A large plastic soda bottle with a red label, filled with a beverage.",
+    "mass": "0.5-2.0 kg",
+    "friction": "0.1-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.41,
+      0.22,
+      0.16
+    ],
+    "bbox_center": [
+      -4.52,
+      0.65,
+      -3.32
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_186": {
+    "id": 730,
+    "object_tag": "paper bag",
+    "object_caption": "Paper bag containing snacks on shelf.",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.16,
+      0.14,
+      0.04
+    ],
+    "bbox_center": [
+      -4.36,
+      0.11,
+      -3.71
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_187": {
+    "id": 754,
+    "object_tag": "bottle",
+    "object_caption": "Plastic soda bottle",
+    "mass": "0.5-2 kg",
+    "friction": "0.1-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.45,
+      0.15,
+      0.17
+    ],
+    "bbox_center": [
+      -4.58,
+      1.03,
+      -3.12
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_188": {
+    "id": 766,
+    "object_tag": "paper bag",
+    "object_caption": "Small snack paper bag on a shelf or hanger.",
+    "mass": "0.05-0.2 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.1,
+      0.07
+    ],
+    "bbox_center": [
+      -4.78,
+      0.56,
+      -2.62
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_189": {
+    "id": 771,
+    "object_tag": "tissue box",
+    "object_caption": "Rectangular box of facial tissues.",
+    "mass": "0.2-0.3 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.36,
+      0.21,
+      0.03
+    ],
+    "bbox_center": [
+      -4.48,
+      0.15,
+      -2.98
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_190": {
+    "id": 772,
+    "object_tag": "bottle",
+    "object_caption": "A large soda bottle.",
+    "mass": "1.5-2 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.13,
+      0.02
+    ],
+    "bbox_center": [
+      -4.49,
+      1.1,
+      -3.21
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_191": {
+    "id": 791,
+    "object_tag": "bottle",
+    "object_caption": "Medium plastic soda bottle.",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.3",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.42,
+      0.23,
+      0.07
+    ],
+    "bbox_center": [
+      -4.4,
+      0.62,
+      -3.29
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_192": {
+    "id": 793,
+    "object_tag": "bag",
+    "object_caption": "Plastic snack bag.",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.2-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.3,
+      0.18,
+      0.15
+    ],
+    "bbox_center": [
+      -4.84,
+      1.16,
+      -2.8
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_193": {
+    "id": 794,
+    "object_tag": "storage bin",
+    "object_caption": "A storage bin on a shelf, materials may vary.",
+    "mass": "0.5-10 kg",
+    "friction": "0.3-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "varies",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.44,
+      0.25,
+      0.18
+    ],
+    "bbox_center": [
+      -4.83,
+      1.13,
+      -1.27
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_194": {
+    "id": 805,
+    "object_tag": "paper bag",
+    "object_caption": "Snack paper bag on hanger.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.2-0.4",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.13,
+      0.07,
+      0.04
+    ],
+    "bbox_center": [
+      -4.83,
+      0.61,
+      -2.69
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_195": {
+    "id": 814,
+    "object_tag": "paper bag",
+    "object_caption": "Small snack-sized paper bag containing snacks",
+    "mass": "0.1-0.3 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.15,
+      0.06,
+      0.03
+    ],
+    "bbox_center": [
+      -4.88,
+      0.11,
+      -2.74
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_196": {
+    "id": 819,
+    "object_tag": "closet wall",
+    "object_caption": "shelf wall",
+    "mass": "30-50 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      1.29,
+      0.23,
+      0.1
+    ],
+    "bbox_center": [
+      -4.63,
+      0.68,
+      -2.81
+    ],
+    "bbox_volume": 0.03
+  },
+  "object_197": {
+    "id": 823,
+    "object_tag": "storage bin",
+    "object_caption": "blue tissue box",
+    "mass": "0.2-0.4 kg",
+    "friction": "0.4-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.17,
+      0.11,
+      0.05
+    ],
+    "bbox_center": [
+      -4.59,
+      0.32,
+      -2.88
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_198": {
+    "id": 825,
+    "object_tag": "closet wall",
+    "object_caption": "section of a closet wall",
+    "mass": "100-200 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.98,
+      0.34,
+      0.31
+    ],
+    "bbox_center": [
+      -4.79,
+      0.69,
+      -2.73
+    ],
+    "bbox_volume": 0.1
+  },
+  "object_199": {
+    "id": 827,
+    "object_tag": "shower wall",
+    "object_caption": "Solid shower wall as part of a bathroom setup.",
+    "mass": "50-250 kg",
+    "friction": "0.4-0.9",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.66,
+      1.05,
+      0.21
+    ],
+    "bbox_center": [
+      -5.73,
+      0.63,
+      -1.45
+    ],
+    "bbox_volume": 0.37
+  },
+  "object_200": {
+    "id": 828,
+    "object_tag": "closet wall",
+    "object_caption": "Part of a closet wall.",
+    "mass": "50-70 kg",
+    "friction": "0.5-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.58,
+      0.18,
+      0.11
+    ],
+    "bbox_center": [
+      -4.91,
+      1.16,
+      -1.21
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_201": {
+    "id": 830,
+    "object_tag": "bucket",
+    "object_caption": "White plastic milk jug or bottle, typically used for carrying or storing liquids.",
+    "mass": "0.5-3.0 kg",
+    "friction": "0.2-0.6",
+    "temperature": "room or cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.38,
+      0.37,
+      0.11
+    ],
+    "bbox_center": [
+      -6.41,
+      0.18,
+      -1.94
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_202": {
+    "id": 832,
+    "object_tag": "shelf",
+    "object_caption": "large commercial refrigerator",
+    "mass": "100-150 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.6,
+      1.18,
+      0.19
+    ],
+    "bbox_center": [
+      -6.0,
+      0.89,
+      -2.4
+    ],
+    "bbox_volume": 0.36
+  },
+  "object_203": {
+    "id": 837,
+    "object_tag": "bucket",
+    "object_caption": "A white plastic jug or bucket with a handle for carrying liquids, often used for milk, on a shelf.",
+    "mass": "0.2-3 kg",
+    "friction": "0.2-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.36,
+      0.36,
+      0.17
+    ],
+    "bbox_center": [
+      -6.35,
+      0.19,
+      -2.36
+    ],
+    "bbox_volume": 0.02
+  },
+  "object_204": {
+    "id": 839,
+    "object_tag": "bucket",
+    "object_caption": "A white plastic milk jug or large plastic container for liquids, often used for milk, in the refrigerated section.",
+    "mass": "0.5-3 kg",
+    "friction": "0.2-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.33,
+      0.12
+    ],
+    "bbox_center": [
+      -6.22,
+      0.2,
+      -2.69
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_205": {
+    "id": 848,
+    "object_tag": "bucket",
+    "object_caption": "A white plastic container, possibly a milk jug or industrial bucket for cleaning solutions.",
+    "mass": "0.5-3 kg",
+    "friction": "0.2-0.4",
+    "temperature": "unknown",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.33,
+      0.19,
+      0.06
+    ],
+    "bbox_center": [
+      -6.37,
+      0.18,
+      -2.12
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_206": {
+    "id": 853,
+    "object_tag": "bucket",
+    "object_caption": "Large white plastic container with a handle for carrying liquids.",
+    "mass": "0.5-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.24,
+      0.1
+    ],
+    "bbox_center": [
+      -6.29,
+      0.18,
+      -2.53
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_207": {
+    "id": 858,
+    "object_tag": "bottle",
+    "object_caption": "White plastic milk jug on the shelf.",
+    "mass": "1-1.5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.21,
+      0.1
+    ],
+    "bbox_center": [
+      -6.29,
+      0.18,
+      -2.71
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_208": {
+    "id": 860,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -5.98,
+      0.26,
+      -3.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_209": {
+    "id": 868,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.08,
+      0.03,
+      0.02
+    ],
+    "bbox_center": [
+      -6.16,
+      0.57,
+      -3.19
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_210": {
+    "id": 875,
+    "object_tag": "bottle",
+    "object_caption": "A plastic bottle containing a liquid.",
+    "mass": "0.5-1 kg",
+    "friction": "0.2-0.4",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.09,
+      0.05,
+      0.02
+    ],
+    "bbox_center": [
+      -6.01,
+      -0.06,
+      -3.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_211": {
+    "id": 880,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.03,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      -6.01,
+      0.3,
+      -3.44
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_212": {
+    "id": 881,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -6.05,
+      0.26,
+      -3.12
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_213": {
+    "id": 884,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -6.07,
+      0.26,
+      -3.05
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_214": {
+    "id": 886,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -6.03,
+      0.26,
+      -3.2
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_215": {
+    "id": 890,
+    "object_tag": "book",
+    "object_caption": "milk carton",
+    "mass": "0.2-0.5 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.22,
+      0.12,
+      0.05
+    ],
+    "bbox_center": [
+      -6.18,
+      0.51,
+      -3.18
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_216": {
+    "id": 900,
+    "object_tag": "person",
+    "object_caption": "human figure or silhouette",
+    "mass": "40-100 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -6.11,
+      0.26,
+      -2.9
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_217": {
+    "id": 907,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.09,
+      0.03,
+      0.02
+    ],
+    "bbox_center": [
+      -6.07,
+      0.57,
+      -3.05
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_218": {
+    "id": 908,
+    "object_tag": "bottle",
+    "object_caption": "Plastic gallon milk container, typically used for carrying liquids.",
+    "mass": "1-1.5 kg",
+    "friction": "0.2-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.27,
+      0.23,
+      0.09
+    ],
+    "bbox_center": [
+      -6.39,
+      0.17,
+      -2.22
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_219": {
+    "id": 920,
+    "object_tag": "person",
+    "object_caption": "human figure or silhouette",
+    "mass": "40-100 kg",
+    "friction": "0.4-0.6",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.07,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -6.1,
+      0.26,
+      -2.98
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_220": {
+    "id": 939,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.08,
+      0.03,
+      0.01
+    ],
+    "bbox_center": [
+      -6.14,
+      0.57,
+      -2.85
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_221": {
+    "id": 952,
+    "object_tag": "box",
+    "object_caption": "Cardboard carton of milk.",
+    "mass": "0.5-1 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "unknown",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.35,
+      0.31,
+      0.12
+    ],
+    "bbox_center": [
+      -6.16,
+      0.79,
+      -2.65
+    ],
+    "bbox_volume": 0.01
+  },
+  "object_222": {
+    "id": 956,
+    "object_tag": "person",
+    "object_caption": "A person in front of the display",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "no",
+    "bbox_extent": [
+      0.08,
+      0.02,
+      0.01
+    ],
+    "bbox_center": [
+      -6.17,
+      0.58,
+      -2.73
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_223": {
+    "id": 959,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.05,
+      0.01,
+      0.0
+    ],
+    "bbox_center": [
+      -6.11,
+      0.28,
+      -2.92
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_224": {
+    "id": 966,
+    "object_tag": "person",
+    "object_caption": "",
+    "mass": "unknown",
+    "friction": "unknown",
+    "temperature": "unknown",
+    "allowed_to_change_location": "unknown",
+    "contain_possible_articulation": "unknown",
+    "fragile": "unknown",
+    "touch_allowed": "unknown",
+    "bbox_extent": [
+      0.08,
+      0.02,
+      0.0
+    ],
+    "bbox_center": [
+      -6.19,
+      0.59,
+      -2.63
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_225": {
+    "id": 974,
+    "object_tag": "book",
+    "object_caption": "A product label or pamphlet.",
+    "mass": "0.1-0.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.23,
+      0.08,
+      0.03
+    ],
+    "bbox_center": [
+      -6.13,
+      0.19,
+      -2.89
+    ],
+    "bbox_volume": 0.0
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "object_001": {
+    "id": 1,
+    "object_tag": "bottle",
+    "object_caption": "A plastic water bottle.",
+    "mass": "0.5-1 kg",
+    "friction": "0.4-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.08,
+      0.25,
+      0.08
+    ],
+    "bbox_center": [
+      -6.1,
+      0.8,
+      -3.0
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_002": {
+    "id": 2,
+    "object_tag": "bottle",
+    "object_caption": "A glass juice bottle.",
+    "mass": "0.8-1.2 kg",
+    "friction": "0.3-0.5",
+    "temperature": "cold",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "yes",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.09,
+      0.3,
+      0.09
+    ],
+    "bbox_center": [
+      -6.05,
+      0.85,
+      -2.95
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_003": {
+    "id": 3,
+    "object_tag": "bottle",
+    "object_caption": "A metal sports bottle.",
+    "mass": "1-1.5 kg",
+    "friction": "0.4-0.7",
+    "temperature": "room",
+    "allowed_to_change_location": "yes",
+    "contain_possible_articulation": "no",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      0.07,
+      0.28,
+      0.07
+    ],
+    "bbox_center": [
+      -6.12,
+      0.78,
+      -3.02
+    ],
+    "bbox_volume": 0.0
+  },
+  "object_004": {
+    "id": 4,
+    "object_tag": "refrigerator",
+    "object_caption": "A large silver refrigerator with ice cream branding and visible snacks inside.",
+    "mass": "50-100 kg",
+    "friction": "0.3-0.6",
+    "temperature": "cold",
+    "allowed_to_change_location": "no",
+    "contain_possible_articulation": "yes",
+    "fragile": "no",
+    "touch_allowed": "yes",
+    "bbox_extent": [
+      1.31,
+      0.79,
+      0.31
+    ],
+    "bbox_center": [
+      -2.44,
+      1.02,
+      1.17
+    ],
+    "bbox_volume": 0.32
+  }
+}
